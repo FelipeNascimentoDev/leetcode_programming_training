@@ -5,5 +5,5 @@ def main():
 def square(n):
     return n*n
 
-if __name__ == "__main__":  # "It will only run main if this own file calls it"
+if __name__ == "__main__":  # "It will only run 'main()' if this file is executed directly"
     main()
